@@ -60,6 +60,3 @@ https://openapi.bitunix.com/api/spot/v1/common/coin/coin_network/list
 - Проверка корректности адресов контрактов
 - Безопасная обработка отсутствующих данных
 
-## License / Лицензия
-
-MIT 
